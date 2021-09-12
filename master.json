@@ -1,0 +1,19 @@
+{
+    "kodesurat": "kode surat",
+    "namakodesurat": "jenis",
+    "deskripsi": null,
+    "subsurat": [
+        {
+            "subkodesurat": "sub kode surat",
+            "namasubkodesurat": "nama sub kode surat",
+            "deskripsi": null,
+            "subbagian": [
+                {
+                    "kodesubbagian": "kode sub surat sub",
+                    "namasubbagian": "namanya",
+                    "deskripsi": "deskripsinya."
+                }
+            ]
+        }
+    ]
+}

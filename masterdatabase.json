@@ -1,0 +1,574 @@
+{
+    "surat": [
+        {
+            "kodesurat": "A",
+            "namakodesurat": "Umum",
+            "deskripsi": null,
+            "subsurat": [
+                {
+                    "subkodesurat": "A.0",
+                    "namasubkodesurat": "Organisasi dan Tatalaksana",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "A.00",
+                            "namasubbagian": "Organisasi",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah organisasi, dasar hukum pendirian / pembentukan, perubahan, pengembangan, baik dari pemerintah maupun persyarikatan yang antara lain mencakup: Keputusan-keputusan dari pemerintah maupun persyarikatan, akta notaris tentang pendirian/pembentukan maupun perubahan, status/izin penyelenggara jurusan/program studi, dsb."
+                        },
+                        {
+                            "kodesubbagian": "A.01",
+                            "namasubbagian": "Tatalaksana",
+                            "deskripsi": "Surat-surat yang berhubungan dengan kegiatan perencanaan penyusunan program kerja oleh unit-unit di lingkungan Universitas Ahmad Dahlan Yogyakarta dalam rangka penentuan kebijakan perencanaan."
+                        },
+                        {
+                            "kodesubbagian": "A.02",
+                            "namasubbagian": "Laporan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan kegiatan Laporan Umum. Laporan Triwulan/Semesteran/Tahunan, Evaluasi/Akreditasi/Evaluasi Diri (EPSBED), Pertanggungjawaban, dan lain-lain yang sejenis baik memenuhi peermintaan dari Kopertis/Instansi pemerintah maupun persyarikatan."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "A.1",
+                    "namasubkodesurat": "Organisasi dan Tatalaksana",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "A.10",
+                            "namasubbagian": "Ketatausahaan",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah tata persuratan, pengadaan, pengiriman, data, kearsipan dan jenis yang sejenis."
+                        },
+                        {
+                            "kodesubbagian": "A.11",
+                            "namasubbagian": "Kerumahtanggaan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan keamanan, ketertiban, kebersihan, akomodasi dan konsumsi."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kodesurat": "B",
+            "namakodesurat": "Kepegawaian",
+            "deskripsi": null,
+            "subsurat": [
+                {
+                    "subkodesurat": "B.0",
+                    "namasubkodesurat": "Pengadaan",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "B.00",
+                            "namasubbagian": "Formasi",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah perencanaan pengadaan pegawai, usul dormasi sampai dengan persetujuan, termasuk bezzeting/formasi."
+                        },
+                        {
+                            "kodesubbagian": "B.01",
+                            "namasubbagian": "Penerimaan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan masalah penerimaan pegawai baru, mulai dari pengumuman, lamaran, pemanggilan tes sampai pengumuman hasil tes."
+                        },
+                        {
+                            "kodesubbagian": "B.02",
+                            "namasubbagian": "Pengangkatan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan masalah pengangkatan calon pegawai mulai dari penempatan calon pegawai sampai dengan pengangkatan sebagai pegawai tetap."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "B.1",
+                    "namasubkodesurat": "Tatausaha Kepegawaian",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "B.10",
+                            "namasubbagian": "Perizinan/dispensasi",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah izin tidak masuk kerja, naik yang diajukan oleh pegawai yang bersangkutan maupun organisasi/instansi lain."
+                        },
+                        {
+                            "kodesubbagian": "B.11",
+                            "namasubbagian": "Daftar Hadir",
+                            "deskripsi": "Surat-surat yang berhubungan dengan presensi kerja, rekapitulasi daftar hadir dosen negeri yang dipekerjakan dan lain-lain."
+                        },
+                        {
+                            "kodesubbagian": "B.12",
+                            "namasubbagian": "Keterangan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan keterangan pegawai, data pegawai, riwayat hidup, nomor pokok pegawai, perhitungan angka kredit, penugasan dan lain-lain."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "B.2",
+                    "namasubkodesurat": "Pendidikan dan Pelatihan",
+                    "deskripsi": "Berkenaan dengan masalah pendidikan, latihan, kursus, penataran bagi tenaga pengajar maupun administrasi, mulai dari perencanaan, pelaksanaan sampai dengan evaluasi dan pelaporan.",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "B.3",
+                    "namasubkodesurat": "Organisasi",
+                    "deskripsi": "Berkenaan dengan masalah organisasi kepegawaian.",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "B.4",
+                    "namasubkodesurat": "Penilaian dan Hukuman",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "B.40",
+                            "namasubbagian": "Penilaian",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah penilaian struktural, fungsional akademik, pelaksanaan pekerjaan (DP3), administratif, teknisi, disiplin pegawai, rehabilitasi, pemutihan dan sebagainya."
+                        },
+                        {
+                            "kodesubbagian": "B.41",
+                            "namasubbagian": "Hukuman",
+                            "deskripsi": "Surat-surat yang berhubungan dengan masalah hukuman pegawai, misalnya peringatan/teguran penundaan kenaikan gaji, penundaan kenaikan pangkat, penurunan gaji, penurunan pangkat, pemeberhentian dengan tidak hormat tidak atas permintaan sendiri dan sebagainya."
+                        },
+                        {
+                            "kodesubbagian": "B.42",
+                            "namasubbagian": "Penghargaan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan pemberian penghargaan kepada karyawan atas prestasi, reputasi, dedikasi dan loyalitas, maupun penghargaan yang diberikan kepada pihak luar universitas atas jasa-jasanya, kontribusi, sumbangsih yang diberikan kepada Universitas."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "B.5",
+                    "namasubkodesurat": "Pembinaan Mental Spiritual",
+                    "deskripsi": "Berkenaan dengan masalah pembinaan mental pegawai, misalnya etos kerja (etika), tauhid (keimanan), peribadatan dan lain-lain",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "B.6",
+                    "namasubkodesurat": "Mutasi",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "B.60",
+                            "namasubbagian": "Kepangkatan",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah kepangkatan antara lain kenaikan pangkat/golongan, penurunan pangkat, ujian dinas dan sebagainya."
+                        },
+                        {
+                            "kodesubbagian": "B.61",
+                            "namasubbagian": "Kenaikan Gaji Berkala",
+                            "deskripsi": "Surat-surat yang berhubungan dengan masalah Kenaikan Gaji Berkala."
+                        },
+                        {
+                            "kodesubbagian": "B.62",
+                            "namasubbagian": "Penyesuaian Masa Kerja",
+                            "deskripsi": "Surat-surat yang berhubungan dengan penyesuaian masa kerja."
+                        },
+                        {
+                            "kodesubbagian": "B.63",
+                            "namasubbagian": "Penyesuaian Tunjangan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan penyesuaian tunjangan."
+                        },
+                        {
+                            "kodesubbagian": "B.64",
+                            "namasubbagian": "Alih Kerja",
+                            "deskripsi": "Surat-surat yang berhubungan dengan alih kerja."
+                        },
+                        {
+                            "kodesubbagian": "B.65",
+                            "namasubbagian": "Jabatan Struktural",
+                            "deskripsi": "Surat-surat yang berhubungan dengan penyesuaian Jabatan Struktural."
+                        },
+                        {
+                            "kodesubbagian": "B.66",
+                            "namasubbagian": "Jabatan Fungsional",
+                            "deskripsi": "Surat-surat yang berhubungan dengan penyesuaian jabatan fungsional."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "B.7",
+                    "namasubkodesurat": "Kesejahteraan",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "B.70",
+                            "namasubbagian": "Kesehatan, Asuransi Kesehatan",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah kesehatan dan aasuransi kesehatan."
+                        },
+                        {
+                            "kodesubbagian": "B.71",
+                            "namasubbagian": "Cuti",
+                            "deskripsi": "Surat-surat yang berhubungan dengan masalah cuti tahunan, hamil, atau alasan penting."
+                        },
+                        {
+                            "kodesubbagian": "B.72",
+                            "namasubbagian": "Rekreasi",
+                            "deskripsi": "Surat-surat yang berhubungan dengan rekreasi."
+                        },
+                        {
+                            "kodesubbagian": "B.73",
+                            "namasubbagian": "Bantuan Sosial",
+                            "deskripsi": "Surat-surat yang berhubungan dengan bantuan sosial."
+                        },
+                        {
+                            "kodesubbagian": "B.74",
+                            "namasubbagian": "Koperasi",
+                            "deskripsi": "Surat-surat yang berhubungan dengan koperasi."
+                        },
+                        {
+                            "kodesubbagian": "B.75",
+                            "namasubbagian": "Antar Jemput",
+                            "deskripsi": "Surat-surat yang berhubungan dengan antar jemput."
+                        },
+                        {
+                            "kodesubbagian": "B.76",
+                            "namasubbagian": "Perumahan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan perumahan."
+                        },
+                        {
+                            "kodesubbagian": "B.77",
+                            "namasubbagian": "Penghargaan",
+                            "deskripsi": "Surat-surat yang berhubungan dengan penghargaan."
+                        },
+                        {
+                            "kodesubbagian": "B.78",
+                            "namasubbagian": "Pensiun/Pesangon",
+                            "deskripsi": "Surat-surat yang berhubungan dengan pensiun/pesangon."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "B.8",
+                    "namasubkodesurat": "Pemutusan Hubungan Kerja",
+                    "deskripsi": "Surat-surat yang berkenaan dengan masalah pemberhentian pegawai yang meliputi pemensiunan, permohonan berhenti atas permintaan sendiri, permohonan pindah ke instansi lain dan meninggal dunia.",
+                    "subbagian": null
+                }
+            ]
+        },
+        {
+            "kodesurat": "C",
+            "namakodesurat": "Keuangan",
+            "deskripsi": "Surat-surat yang berkenaan dengan masalah keuangan.",
+            "subsurat": [
+                {
+                    "subkodesurat": "C.0",
+                    "namasubkodesurat": "Anggaran Rutin",
+                    "deskripsi": "Surat-surat yang berkenaan dengan masalah anggaran rutin, mulai dari proses pengumpulan bahan sampai pada pengajuan anggaran.",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "C.00",
+                            "namasubbagian": "Sumbangan Pembinaan Pendidikan",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah sumbangan pembinaan pendidikan."
+                        },
+                         {
+                            "kodesubbagian": "C.01",
+                            "namasubbagian": "Belanja Pegawai",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah belanja pegawai."
+                        },
+                         {
+                            "kodesubbagian": "C.02",
+                            "namasubbagian": "Belanja Barang",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah belanja barang."
+                        },
+                         {
+                            "kodesubbagian": "C.03",
+                            "namasubbagian": "Uang Sidang",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah uang sidang."
+                        },
+                         {
+                            "kodesubbagian": "C.04",
+                            "namasubbagian": "Lain-lain",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah anggaran yang bersifat rutin."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "C.1",
+                    "namasubkodesurat": "Anggaran Pembangunan",
+                    "deskripsi": "Surat-surat yang berkenaan dengan masalah anggaran hardware dan software, pembangunan mulai dari proses pengumpulan bahan perencanaan, negosiasi pembiayaan samapai pada pengajuan anggaran yang meliputi:",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "C.10",
+                            "namasubbagian": "Pembangunan Gedung",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah pembangunan gedung."
+                        },
+                         {
+                            "kodesubbagian": "C.11",
+                            "namasubbagian": "Pengadaan Peralatan Kuliah",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah pengadaan peralatan kuliah."
+                        },
+                         {
+                            "kodesubbagian": "C.12",
+                            "namasubbagian": "Pengadaan Perabotan Kantor",
+                            "deskripsi": "Surat-surat yang berkenaan dengan pengadaan perabotan kantor."
+                        },
+                         {
+                            "kodesubbagian": "C.13",
+                            "namasubbagian": "Pengadaan Peralatan Laboratorium/Teknik",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah Pengadaan peralatan laboratorium/teknik."
+                        },
+                         {
+                            "kodesubbagian": "C.14",
+                            "namasubbagian": "Lain-lain",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah sejenis."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "C.2",
+                    "namasubkodesurat": "Non-Budgeter",
+                    "deskripsi": "Berkenaan dengan masalah penyusunan dan pengelolaan anggraran non-budgeter, yang antara lain meliputi: pembinaan IMM, lembaga kemahasiswaan intra universitas.",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "C.3",
+                    "namasubkodesurat": "Pertanggungjawaban",
+                    "deskripsi": "Surat-surat yang berkenaan dengan masalah pelaporan pertanggungjawaban keuangan",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "C.30",
+                            "namasubbagian": "SPJ Rutin",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah SPJ Rutin."
+                        },
+                        {
+                            "kodesubbagian": "C.31",
+                            "namasubbagian": "SPJ Pembangunan/Pengembangan",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah SPJ pembangunan/pengembangan."
+                        },
+                        {
+                            "kodesubbagian": "C.32",
+                            "namasubbagian": "SPJ Non-Budgeter",
+                            "deskripsi": "Surat-surat yang berkenaan dengan masalah SPJ non-budgeter."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "C.4",
+                    "namasubkodesurat": "Pajak",
+                    "deskripsi": "Surat-surat yang berkenaan dengan pengeluaran pajak yang menjadi beban universitas antara lain: MPO, PPn, Pajak Jasa PPh, PBB dan sebagainya",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "C.5",
+                    "namasubkodesurat": "Perbankan",
+                    "deskripsi": "Surat-surat yang berkenaan masalah hubungan simpan-pinjam dengan pihak perbankan.",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "C.6",
+                    "namasubkodesurat": "Sumbangan/Bantuan",
+                    "deskripsi": "Surat-surat yang berkenaan masalah pemberian bantuan dan atau permintaan bantuan dari luar universitas baik dari instansi pemerintah, persyarikatan maupun swasta antara lain: bantuan uang, pembangunan gedung, bantuan bencana alam, penyelenggaraan MTQ, penyelenggaraan Mukhtamar Muhammadiyah, pembangunan masjid, pekan olahraga, pinjaman lewat koperasi dan lain sebagainya.",
+                    "subbagian": null
+                }
+            ]
+        },
+        {
+            "kodesurat": "D",
+            "namakodesurat": "Akademik dan Kemahasiswaan",
+            "deskripsi": null,
+            "subsurat": [
+                {
+                    "subkodesurat": "D.0",
+                    "namasubkodesurat": "Kurikulum dan Silabi",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.00",
+                            "namasubbagian": "Kurikulum",
+                            "deskripsi": "Surat-surat yang berkenaan masalah kurikulum dari semua jenjang dan program studi yang diselenggarakan di Universitas Ahmad Dahlan (Kurikulum yang berlaku)."
+                        },
+                        {
+                            "kodesubbagian": "D.01",
+                            "namasubbagian": "Silani/SAP",
+                            "deskripsi": "Surat-surat yang berkenaan masalah silabi matakuliah pada semua program studi."
+                        },
+                        {
+                            "kodesubbagian": "D.02",
+                            "namasubbagian": "Perubahan Kurikulum",
+                            "deskripsi": "Surat-surat yang berkenaan masalah perubahan kurikulum."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.1",
+                    "namasubkodesurat": "Pengajaran (Pembelajaran)",
+                    "deskripsi": "Surat-surat yang berkenaan masalah penyelenggaraan proses belajar mengajar.",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.10",
+                            "namasubbagian": "Jadwal Kuliah",
+                            "deskripsi": "Surat-surat yang berkenaan dengan jadwal kuliah."
+                        },
+                        {
+                            "kodesubbagian": "D.11",
+                            "namasubbagian": "Presensi Kuliah",
+                            "deskripsi": "Surat-surat yang berkenaan dengan presensi kuliah."
+                        },
+                        {
+                            "kodesubbagian": "D.12",
+                            "namasubbagian": "Pembatalan/Penundaan Kuliah",
+                            "deskripsi": "Surat-surat yang berkenaan dengan pembatalan/penundaan kuliah."
+                        },
+                        {
+                            "kodesubbagian": "D.13",
+                            "namasubbagian": "Kuliah Antar Waktu, Reguler",
+                            "deskripsi": "Surat-surat yang berkenaan dengan presensi kuliah."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.2",
+                    "namasubkodesurat": "Tenaga Pengajar/Dosen",
+                    "deskripsi": null,
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.20",
+                            "namasubbagian": "Daftar Dosen",
+                            "deskripsi": "Surat-surat yang berkenaan masalah daftar dosen."
+                        },
+                        {
+                            "kodesubbagian": "D.21",
+                            "namasubbagian": "Dosen Negeri Dipekerjaan",
+                            "deskripsi": "Surat-surat yang berkenaan masalah daftar dosen negeri yang dipekerjakan."
+                        },
+                        {
+                            "kodesubbagian": "D.22",
+                            "namasubbagian": "Dosen Tetap Yayasan",
+                            "deskripsi": "Surat-surat yang berkenaan masalah daftar dosen tetap yayasan."
+                        },
+                        {
+                            "kodesubbagian": "D.23",
+                            "namasubbagian": "Dosen Tidak Tetap/Luar Biasa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah daftar dosen tidak tetap/luar biasa."
+                        },
+                        {
+                            "kodesubbagian": "D.24",
+                            "namasubbagian": "Dosen Tamu/Asing/Volunteer",
+                            "deskripsi": "Surat-surat yang berkenaan masalah daftar dosen tamu/asing/volunteer."
+                        },
+                        {
+                            "kodesubbagian": "D.25",
+                            "namasubbagian": "Izin Dosen",
+                            "deskripsi": "Surat-surat yang berkenaan masalah izin belajar dan mengajar bagi dosen dari instansi lain maupun ke instansi lain."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.3",
+                    "namasubkodesurat": "Evaluasi",
+                    "deskripsi": "Surat-surat yang berkenaan masalah evaluasi proses belajar mengajar.",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.30",
+                            "namasubbagian": "Ujian Akhir/Tengah Semester",
+                            "deskripsi": "Surat-surat yang berkenaan masalah ujian akhir/tengah semester."
+                        },
+                        {
+                            "kodesubbagian": "D.31",
+                            "namasubbagian": "Ujian Skripsi, Thesis, Disertasi",
+                            "deskripsi": "Surat-surat yang berkenaan masalah ujian skripsi, thesis dan disertasi."
+                        },
+                        {
+                            "kodesubbagian": "D.32",
+                            "namasubbagian": "Ujian Komprehensif",
+                            "deskripsi": "Surat-surat yang berkenaan masalah ujian komprehensif."
+                        },
+                        {
+                            "kodesubbagian": "D.33",
+                            "namasubbagian": "Ujian Follow up/Remidial",
+                            "deskripsi": "Surat-surat yang berkenaan masalah ujian follow up/remidial."
+                        },
+                        {
+                            "kodesubbagian": "D.34",
+                            "namasubbagian": "Program Pengenalan Lapangan, Program Kerja Lapangan, Kuliah Kerja Nyata",
+                            "deskripsi": "Surat-surat yang berkenaan masalah program pengenalan lapangan, program kerja lapangan dan kuliah kerja nyata."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.4",
+                    "namasubkodesurat": "Pengembangan",
+                    "deskripsi": "Surat-surat yang berkenaan masalah pengembangan tenaga akademik",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.40",
+                            "namasubbagian": "Program Magister (S2)",
+                            "deskripsi": null
+                        },
+                        {
+                            "kodesubbagian": "D.41",
+                            "namasubbagian": "Program Doktor (S3)",
+                            "deskripsi": null
+                        },
+                        {
+                            "kodesubbagian": "D.42",
+                            "namasubbagian": "Pendidikan Spesialis, Profesi dan Diploma (non-degree) baik ditempuh di dalam negeri maupun luar negeri",
+                            "deskripsi": null
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.5",
+                    "namasubkodesurat": "Ketatausahaan",
+                    "deskripsi": "Surat-surat yang berkenaan masalah ketatausahaan akademik",
+                    "subbagian": null
+                },
+                {
+                    "subkodesurat": "D.6",
+                    "namasubkodesurat": "Kemahasiswaan",
+                    "deskripsi": "Surat-surat yang berkenaan masalah kemahasiswaan",
+                    "subbagian": [
+                        {
+                            "kodesubbagian": "D.60",
+                            "namasubbagian": "Registrasi Mahasiswa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah registrasi mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.61",
+                            "namasubbagian": "Keterangan Mahsiswa, Nomor Induk Mahasiswa, Kartu Mahasiswa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah Keterangan Mahsiswa, Nomor Induk Mahasiswa, Kartu Mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.62",
+                            "namasubbagian": "Perwalian",
+                            "deskripsi": "Surat-surat yang berkenaan masalah Perwalian Mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.63",
+                            "namasubbagian": "Cuti Studi",
+                            "deskripsi": "Surat-surat yang berkenaan masalah cuti mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.64",
+                            "namasubbagian": "Mutasi",
+                            "deskripsi": "Surat-surat yang berkenaan masalah mutasi mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.65",
+                            "namasubbagian": "Organisasi Kemahasiswaan",
+                            "deskripsi": "Surat-surat yang berkenaan masalah Organisasi Kemahasiswaan."
+                        },
+                        {
+                            "kodesubbagian": "D.66",
+                            "namasubbagian": "Penalaran Mahasiswa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah penelitian, workshop, dan seminar."
+                        },
+                        {
+                            "kodesubbagian": "D.67",
+                            "namasubbagian": "Unit Kegiatan Mahasiswa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah Unit Kegiatan Mahasiswa."
+                        },
+                        {
+                            "kodesubbagian": "D.68",
+                            "namasubbagian": "Beasiswa, Darmasiswa/Widyasiswa",
+                            "deskripsi": "Surat-surat yang berkenaan masalah mahasiswa asing."
+                        },
+                        {
+                            "kodesubbagian": "D.69",
+                            "namasubbagian": "Olahraga dan Seni",
+                            "deskripsi": "Surat-surat yang berkenaan masalah Olahraga dan Seni."
+                        }
+                    ]
+                },
+                {
+                    "subkodesurat": "D.7",
+                    "namasubkodesurat": "Alumni",
+                    "deskripsi": "Surat-surat yang berkenaan masalah alumni mahasiswa Universitas Ahmad Dahlan",
+                    "subbagian": null
+                }
+            ]
+        }
+    ]
+}
